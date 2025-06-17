@@ -10,7 +10,6 @@ document.addEventListener("DOMContentLoaded", function () {
   form.addEventListener("submit", function (event) {
     let hasErrors = false;
 
-    // Сброс ошибок
     nameError.textContent = "";
     emailError.textContent = "";
     messageError.textContent = "";
@@ -40,7 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     if (hasErrors) {
-      event.preventDefault(); // Предотвращаем отправку формы
+      event.preventDefault();
     }
   });
 });
