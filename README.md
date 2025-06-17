@@ -8,7 +8,7 @@
         <li><strong>header.php</strong> - Шапка сайта.</li>
         <li><strong>index.php</strong> - Главный шаблон страницы.</li>
         <li><strong>style.css</strong> - Стили темы.</li>
-        <li><strong>js</strong> - Папка с JavaScript-файламом.</li>
+        <li><strong>js</strong> - Папка с JavaScript-файлом.</li>
     </ul>
 
   <h2>Развернутый сайт</h2>
